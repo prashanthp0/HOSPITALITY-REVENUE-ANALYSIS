@@ -1,6 +1,4 @@
-
 📊 Hospitality Revenue Analytics Dashboard (SQL + Power BI)
-
 🚩 Problem Statement
 Hotel management teams struggled with manual reporting across multiple booking sources, leading to:
 
